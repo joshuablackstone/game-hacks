@@ -1,18 +1,23 @@
 # game-hacks
-Collection of Rom Hacks and Save Files that I either created or would recommend.  
+Collection of Rom Hacks and Save Files that I either created or would recommend.  <br />
 
-Editors I use to play:
-
-NES: Mesen or FCEUX
-SNES: SNES9X 
-Wii and GameCube: Dolphin
-WiiU: Cemu
-Nintendo DS: DeSmuME
-Nintendo 3DS: Citra
-Sega Genesis: Kega Fusion
-PS2: PCSX2
-
+Editors I use to play:<br />
+<ul>
+  <li>NES: Mesen or FCEUX</li>
+  <li>SNES: SNES9X</li>
+  <li>Wii and GameCube: Dolphin</li>
+  <li>WiiU: Cemu</li>
+  <li>Nintendo DS: DeSmuME</li>
+  <li>Nintendo 3DS: Citra</li>
+  <li>Sega Genesis: Kega Fusion</li>
+  <li>PS2: PCSX2</li>
+</ul>
+<br />
 Best Sites for Rom Hacks:
+<br />
+<ul>
+  <li>romhacking.net</li>
+  <li>smwcentral.net</li>
+</ul>
 
-romhacking.net
-smwcentral.net
+
