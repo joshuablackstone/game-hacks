@@ -11,6 +11,7 @@ Editors I use to play:<br />
   <li>Nintendo 3DS: Citra</li>
   <li>Sega Genesis: Kega Fusion</li>
   <li>PS2: PCSX2</li>
+  <li>PS3: RPCS3</li>
 </ul>
 <br />
 Best Sites for Rom Hacks:
